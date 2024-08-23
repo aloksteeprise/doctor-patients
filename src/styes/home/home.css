@@ -1,0 +1,245 @@
+.homeinitial{
+    width: 40%;
+    margin-left: 60px;
+    margin-top: 45px;
+}
+.firstdropdown{
+    width: 30%;
+}
+
+.card1{
+    border: 1px solid #f0f0f5;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .12);
+    border-radius: 24px;
+    cursor: pointer;
+    margin-left: 300px;
+    
+    
+}
+
+.card2{
+    margin-left: 10px;
+    border: 1px solid #f0f0f5;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .12);
+    border-radius: 24px;
+    cursor: pointer;
+
+}
+
+.card3{
+    margin-left: 10px;
+    border: 1px solid #f0f0f5;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .12);
+    border-radius: 24px;
+    cursor: pointer;
+
+}
+.homecardimg1{
+    background: #AFCFED;
+    padding-top: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 0px;
+    width: 239px;
+    height: 237px;
+    border-radius: 5px;
+    
+}
+
+.homecardimg2{
+    background: #98CBD6;
+    padding-top: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    width: 239px;
+    height: 237px;
+    border-radius: 5px;
+
+}
+
+.homecardimg3{
+    background: #D5D8FC;
+    padding-top: 16px;
+    padding-left: 14px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    width: 239px;
+    height: 237px;
+    border-radius: 5px;
+}
+
+.homecarddiv{
+    margin-top: 23px;
+    margin-left: 53px;
+    display: flex;
+}
+
+.healthconcerndiv{
+    margin-top: 25px;
+    
+}
+
+.healthheadingdiv{
+    margin-left: 200px;
+    font-weight: 700;
+}
+
+.healthpara{
+    margin-left: 200px;
+}
+
+.healthconimagesdiv{
+    margin-top: 23px;
+    display: flex;
+    margin-left: 45px;
+}
+
+.image1{
+    margin-left: 150px;
+    width: 120px;
+    height:120px;
+}
+
+.healthimage{
+    width: 120px;
+    height:120px;
+    margin-left: 80px;
+    
+   
+}
+
+.imagedesc{
+    font-size: 14px;
+    color: #414146;
+    font-weight: 700;
+    margin-top: 12px;
+    margin-left: 123px;
+}
+
+.imagedes{
+    font-size: 14px;
+    color: #414146;
+    font-weight: 700;
+    margin-top: 12px;
+    margin-left: 60px;
+}
+
+.consult{
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: #14bef0;
+    font-size: 12px;
+    line-height: 1.25;
+    font-weight: 700;
+    cursor: pointer;
+    margin-left: 150px;
+}
+
+.consult1{
+    margin-left: 80px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: #14bef0;
+    font-size: 12px;
+    line-height: 1.25;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+
+.bookinghed{
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 150px;
+}
+
+.bookingpara{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 5px;
+    margin-left: 150px;
+}
+
+.bookingimages{
+    display: flex;
+}
+
+.bookingimage{
+    width: 280px;
+    height: 200px;
+    margin-left: 150px;
+}
+
+.bookingimage1{
+    width: 280px;
+    height: 200px;
+    margin-left: 60px;
+}
+
+.dentist{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-left: 150px;
+    margin-top: 5px;
+    font-weight: 700;
+
+}
+
+.dentistpara{
+    font-size: 14px;
+    color: #414146;
+    margin-left:150px;
+    margin-top: -10px;
+}
+
+.gynecologist{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+    margin-left: 60px;
+    margin-top: 5px;
+}
+
+.gynecologistpara{
+    font-size: 14px;
+    color: #414146;
+    margin-left:60px;
+    margin-top: -10px;
+}
+
+.dietitian{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+    margin-left: 60px;
+    margin-top: 5px;
+
+}
+
+.dietitianpara{
+    font-size: 14px;
+    color: #414146;
+    margin-left:60px;
+    margin-top: -10px;
+
+}
+
+.physiotherapist{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+    margin-left: 60px;
+    margin-top: 5px;
+
+
+}
+
+.physiotherapistpara{
+    font-size: 14px;
+    color: #414146;
+    margin-left:60px;
+    margin-top: -10px;
+
+}

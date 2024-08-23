@@ -1,0 +1,68 @@
+.secondary-nav {
+    display: block;
+    text-align: center;
+    clear: both;
+    margin: 10px;
+    border-bottom: 1px solid rgba(216, 216, 216, 0.5);
+}
+
+.secondary-nav ul.list {
+    display: block;
+    clear: both;
+    float: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 250px;
+}
+
+.secondary-nav ul li {
+    float: left;
+    padding: 0 20px;
+    display: inline-block;
+}
+
+.select-box {
+    border: 1px solid #ccc;
+    width: 100px;
+    height: 35px;
+    float: left;
+    border-radius: 4px;
+    overflow: hidden;
+    
+}
+
+.select-box select {
+    padding: 10px 10px;
+    width: 130%;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+    line-height: 100%;
+}
+
+.select-box+.mobile-number {
+    width: 228px;
+    float: left;
+    position: relative;
+    margin-left: 20px;
+}
+
+.email-text {
+    height: 35px;
+    width: 124%;
+}
+
+
+
+@media screen and (min-width: 300px) and (max-width: 700px) {
+
+    .email-text {
+       
+        width: 104%;
+    }
+
+}
+
+
